@@ -1,0 +1,145 @@
+[
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "is_remake_of",
+    "object": "Final Fantasy VII",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": "2020-04-10",
+    "valido_hasta": null,
+    "confianza": 1.0,
+    "evidence": "Tipo:Remake de Final Fantasy VII"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "developed_by",
+    "object": "Square Enix",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0,
+    "evidence": "Desarrollador: Square Enix"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "published_by",
+    "object": "Square Enix",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0,
+    "evidence": "Editor: Square Enix"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "has_genre",
+    "object": "Rol",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0,
+    "evidence": "Género: Rol"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "has_genre",
+    "object": "Acción RPG",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0,
+    "evidence": "Género: Acción RPG"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "released_on",
+    "object": "2020-04-10",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": "2020-04-10",
+    "valido_hasta": null,
+    "confianza": 1.0,
+    "evidence": "Lanzamiento:10 de abril de 2020"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "available_on",
+    "object": "PS4",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0,
+    "evidence": "Comprar Para: PS4"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "belongs_to_universe",
+    "object": "Juegos de Final Fantasy",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0,
+    "evidence": "Universo Juegos de Final Fantasy"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "has_type",
+    "object": "Remake",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0,
+    "evidence": "Tipo:Remake"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "has_language",
+    "object": "Textos en español",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9,
+    "evidence": "Idioma: Textos en español"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "has_language",
+    "object": "Voces en inglés",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.9,
+    "evidence": "Idioma: voces en inglés"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "has_number_of_players",
+    "object": "1",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 1.0,
+    "evidence": "Jugadores:1"
+  },
+  {
+    "subject": "Final Fantasy VII Remake",
+    "predicate": "has_minimum_duration",
+    "object": "30-35 horas",
+    "source": "http://www.3djuegos.com/juegos/final-fantasy-vii-remake/",
+    "fecha_extraccion": "2026-05-20",
+    "valido_desde": null,
+    "valido_hasta": null,
+    "confianza": 0.95,
+    "evidence": "Duración:30-35 horas (mínimo)"
+  }
+]
